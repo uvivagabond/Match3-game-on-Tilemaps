@@ -34,6 +34,6 @@ MonoBehaviour:
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 0
   m_ColliderType: 1
-  traits: 0
+  traits: 2
   normalSprite: {fileID: 21300000, guid: 0ef5b8820cc68b84399050ac40d22a0a, type: 3}
   hoverSprite: {fileID: 21300000, guid: a9d1b3dd2a16a91429921d0efab4af9a, type: 3}
